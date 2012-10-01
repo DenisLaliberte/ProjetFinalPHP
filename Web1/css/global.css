@@ -1,0 +1,113 @@
+*	{  
+	 margin: 0; 
+	 padding: 0;
+	 }
+
+span{
+	font-size:50px;
+
+	}
+	 
+body{
+	background: url('../images/tuile.png')repeat-y;
+	font-family:verdana, sans-serif;
+	}
+
+.main{
+	background: url('../images/fond2.png')repeat;
+	margin:auto;
+	width:819px;
+	border:4px;
+	border-radius:15px 15px 15px 15px;
+	}
+	
+.titre{
+	margin:auto;
+	width:800px;
+	color:#bc6a4a;
+	font-family:Arial,serif;
+	font-style:bold;
+	padding:20px;
+
+	}
+.soustitre{
+	color:black;
+	padding:2px;
+	font-style:normal;
+}	
+	
+.cadre{
+	width:800px;
+	height:252px;
+	background-color:#bc6a4a;
+	padding:10px 6px 6px 10px;
+	border:1px solid #007250;
+	border-radius:5px 5px 5px 5px;
+	}
+.photo{
+	width:794px;
+	height:248px;
+	background: url('../images/fond.jpg');
+	}
+	
+.menu{
+	width:800px;
+	height:40px;
+	color:#bc6a4a;
+	font-size:16px;
+	float:left;
+	text-align:center;
+	padding:7px;
+	}
+.espace{
+	height:10px;	
+	}
+ul
+	{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	}	
+li
+	{
+	display:inline;
+	}
+	
+	
+a:link 
+	{    
+	text-decoration: none; 
+	color: black;
+	}
+	
+a:visited {  
+	font-weight: bold; 
+	text-decoration: none; 
+	color: black;
+	}
+	
+a:hover, a:active {    
+	text-decoration: none; 
+	color: #007250;
+	}
+
+	
+.contenu{
+	margin:60px;
+	font-size:18px;
+	color:
+	}
+	
+.texte{
+	padding:20px;
+	}
+	
+.ligne{
+	background-color:#bc6a4a;
+	height:5px;
+	border:1px solid #007250;
+	border-radius:5px 5px 5px 5px;
+	}
+.petit{
+	font-size:10px;
+}

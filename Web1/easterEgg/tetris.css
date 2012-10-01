@@ -1,0 +1,45 @@
+/* ********** ********** ********** ********** ********** ********** ********** */
+
+body{
+	background-color : black;
+}
+
+#jeu{
+        position:absolute;
+	background-color : white;
+	width : 800;
+	height : 600;
+        top:10;
+        left:100;
+}
+#gameOver{
+        font-size:100px;
+        margin:auto;
+
+}
+.bloc{
+        position:absolute;
+        left:320;
+        top:10;
+        width:40;
+        height:40;
+}
+
+.bleu {
+        background-color :blue;
+}   
+
+.rouge{
+        background-color:red;
+
+}
+
+.vert{
+        background-color:green;
+
+}
+
+.jaune{
+        background-color:yellow;
+
+}
